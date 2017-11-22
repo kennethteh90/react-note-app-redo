@@ -8,6 +8,7 @@ ReactDOM.render(<App />, document.getElementById('root'));
 registerServiceWorker();
 
 class NoteList extends React.Component {
+
   render() {
 
     const notes = this.props.list.map((step, noteNumber) => {
@@ -59,6 +60,7 @@ class NoteApp extends React.Component {
       }],
       noteNumber: 0,
     };
+
     // this.handleTitleChange = this.handleTitleChange.bind(this);
     // this.handleBodyChange = this.handleBodyChange.bind(this);
     // this.handleTitleFocus = this.handleTitleFocus.bind(this);
