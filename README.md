@@ -1,3 +1,5 @@
+> **Maintained lightly** for historical Medium/blog links. Active portfolio: [kennethteh90.github.io](https://github.com/kennethteh90/kennethteh90.github.io).
+
 # NoteApp - React Native
 
 A beautiful, cross-platform note-taking app built with React Native. Features a modern UI with smooth navigation, persistent storage, and intuitive user experience.
